@@ -10,7 +10,7 @@ body {
     gap: 20px;
 }
 
-.gallery img {
+.gallery img, .gallery video {
     width: 100%;
     height: auto;
     display: block;

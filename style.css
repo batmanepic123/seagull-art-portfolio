@@ -1,7 +1,7 @@
 body {
-    background-color: #121212;
+    background-color: #fffe0;
     color: #ffffff;
-    font-family: sans-serif;
+    font-family: courier-new;
 }
 
 .gallery {
@@ -69,4 +69,25 @@ body {
   .header-right {
     float: none;
   }
+}
+
+.retro-text-box {
+  font-family: 'Courier New', monospace; /* Classic retro web font */
+  background-color: #90ee90;
+  color: #000000;
+  border: 3px double #00FF00;
+  padding: 15px;
+  max-width: 500px;
+  margin: 20px auto;
+  box-shadow: 5px 5px 0px #005500;
+}
+
+.retro-text-box h3 {
+  margin-top: 0;
+  border-bottom: 1px dashed #00FF00;
+  padding-bottom: 5px;
+}
+
+body {
+  background-image: url('background.avif');
 }

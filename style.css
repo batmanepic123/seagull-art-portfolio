@@ -73,13 +73,14 @@ body {
 
 .retro-text-box {
   font-family: 'Courier New', monospace; /* Classic retro web font */
-  background-color: #90ee90;
-  color: #000000;
+  background-color: #5a5a5a;
+  color: #32cd32;
   border: 3px double #00FF00;
   padding: 15px;
   max-width: 500px;
   margin: 20px auto;
   box-shadow: 5px 5px 0px #005500;
+  font-weight: bold;
 }
 
 .retro-text-box h3 {
@@ -89,7 +90,7 @@ body {
 }
 
 body {
-  background-image: url('background.avif');
+  background-image: url('background.png');
 }
 
 /* git add . */

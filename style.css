@@ -73,8 +73,8 @@ body {
 
 .retro-text-box {
   font-family: 'Courier New', monospace; /* Classic retro web font */
-  background-color: #5a5a5a;
-  color: #32cd32;
+  background-color: #000000;
+  color: #03a062;
   border: 3px double #00FF00;
   padding: 15px;
   max-width: 500px;

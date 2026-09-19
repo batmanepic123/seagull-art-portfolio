@@ -93,6 +93,15 @@ body {
   background-image: url('background.png');
 }
 
+.instagram-button {
+    width: 72px;
+    height: 24px;
+    background-image: url('instagram.png');
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+}
+
 /* git add . */
 /* git commit -m "..." */
 /* git push origin main */
